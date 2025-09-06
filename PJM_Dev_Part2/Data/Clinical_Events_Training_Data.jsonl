@@ -1,0 +1,50 @@
+{"input": "Diagnosed with type 2 diabetes in 2008.", "output": [{"event_type": "Diagnosis", "date": "2008", "provider": "N/A", "details": "Type 2 diabetes"}]}
+{"input": "Hospitalized in February 2024 for acute kidney injury at St. Mary's Hospital.", "output": [{"event_type": "Hospitalization", "date": "2024-02", "provider": "St. Mary's Hospital", "details": "Acute kidney injury"}]}
+{"input": "A1c measured at 7.8% in 2008.", "output": [{"event_type": "Lab Result", "date": "2008", "provider": "N/A", "details": "A1c 7.8%"}]}
+{"input": "Urine albumin/creatinine ratio 320 mg/g reported in March 2024.", "output": [{"event_type": "Lab Result", "date": "2024-03", "provider": "N/A", "details": "UACR 320 mg/g"}]}
+{"input": "Renal ultrasound ordered on 2025-06-10 due to persistent proteinuria.", "output": [{"event_type": "Imaging Ordered", "date": "2025-06-10", "provider": "N/A", "details": "Renal ultrasound ordered for persistent proteinuria"}]}
+{"input": "Renal ultrasound on 2025-06-18 showed increased echogenicity.", "output": [{"event_type": "Imaging Result", "date": "2025-06-18", "provider": "N/A", "details": "Renal ultrasound: increased echogenicity"}]}
+{"input": "Started metformin in 2008.", "output": [{"event_type": "Medication Started", "date": "2008", "provider": "N/A", "details": "Metformin started"}]}
+{"input": "Lisinopril increased to 20 mg daily on 2024-07-05.", "output": [{"event_type": "Medication Changed", "date": "2024-07-05", "provider": "N/A", "details": "Lisinopril increased to 20 mg daily"}]}
+{"input": "Insulin glargine discontinued in April 2023 due to hypoglycemia.", "output": [{"event_type": "Medication Stopped", "date": "2023-04", "provider": "N/A", "details": "Insulin glargine stopped due to hypoglycemia"}]}
+{"input": "Referred by Dr. Jennifer Ortiz to nephrology on 2025-06-15.", "output": [{"event_type": "Referral Sent", "date": "2025-06-15", "provider": "Dr. Jennifer Ortiz", "details": "Referral to nephrology"}]}
+{"input": "Nephrology consultation on 2025-06-20 with Dr. Lee.", "output": [{"event_type": "Specialist Visit", "date": "2025-06-20", "provider": "Dr. Lee", "details": "Nephrology consultation"}]}
+{"input": "Follow-up visit on 2024-10-02 for blood pressure review.", "output": [{"event_type": "Follow-up Visit", "date": "2024-10-02", "provider": "N/A", "details": "Blood pressure review"}]}
+{"input": "Missed appointment on 2024-09-12.", "output": [{"event_type": "Missed Appointment", "date": "2024-09-12", "provider": "N/A", "details": "Missed appointment"}]}
+{"input": "Patient reports dizziness for two weeks, noted on 2024-08-01.", "output": [{"event_type": "Patient Reported Symptom", "date": "2024-08-01", "provider": "N/A", "details": "Dizziness for two weeks"}]}
+{"input": "Lives alone and uses a cane for ambulation.", "output": [{"event_type": "Functional/Social Note", "date": "Unknown", "provider": "N/A", "details": "Lives alone; uses a cane"}]}
+{"input": "Problem list: diabetic nephropathy, long-standing hypertension, and coronary artery disease.", "output": [{"event_type": "Diagnosis", "date": "Unknown", "provider": "N/A", "details": "Diabetic nephropathy; hypertension; coronary artery disease"}]}
+{"input": "Creatinine 2.1 mg/dL and eGFR 35 mL/min/1.73m² on 2025-04-11.", "output": [{"event_type": "Lab Result", "date": "2025-04-11", "provider": "N/A", "details": "Creatinine 2.1 mg/dL; eGFR 35 mL/min/1.73m²"}]}
+{"input": "Urinalysis ordered today due to foamy urine.", "output": [{"event_type": "Lab Ordered", "date": "Unknown", "provider": "N/A", "details": "Urinalysis ordered for foamy urine"}]}
+{"input": "Emergency department visit on 2023-12-05 for chest pain at City General Hospital.", "output": [{"event_type": "Hospitalization", "date": "2023-12-05", "provider": "City General Hospital", "details": "Emergency visit for chest pain"}]}
+{"input": "Started dapagliflozin in May 2024 for CKD.", "output": [{"event_type": "Medication Started", "date": "2024-05", "provider": "N/A", "details": "Dapagliflozin started for CKD"}]}
+{"input": "ACE inhibitor-induced cough in 2024; lisinopril stopped.", "output": [{"event_type": "Medication Stopped", "date": "2024", "provider": "N/A", "details": "Lisinopril stopped due to ACE-inhibitor cough"}]}
+{"input": "Referred to dietitian on 2024-06-01 for diabetic meal planning.", "output": [{"event_type": "Referral Sent", "date": "2024-06-01", "provider": "N/A", "details": "Referral to dietitian for diabetic meal planning"}]}
+{"input": "Visited endocrinology clinic in July 2024.", "output": [{"event_type": "Specialist Visit", "date": "2024-07", "provider": "N/A", "details": "Endocrinology clinic visit"}]}
+{"input": "Blood pressure reading 152/94 on 2025-01-19.", "output": [{"event_type": "Lab Result", "date": "2025-01-19", "provider": "N/A", "details": "Blood pressure 152/94"}]}
+{"input": "Colonoscopy scheduled for 2025-10 (no result yet).", "output": [{"event_type": "Procedure", "date": "2025-10", "provider": "N/A", "details": "Colonoscopy scheduled"}]}
+{"input": "Chest X-ray ordered in 2023-11 due to cough.", "output": [{"event_type": "Imaging Ordered", "date": "2023-11", "provider": "N/A", "details": "Chest X-ray ordered for cough"}]}
+{"input": "Chest X-ray on 2023-11-18: no acute findings.", "output": [{"event_type": "Imaging Result", "date": "2023-11-18", "provider": "N/A", "details": "Chest X-ray: no acute findings"}]}
+{"input": "Started amlodipine 5 mg daily on 2024-01-03.", "output": [{"event_type": "Medication Started", "date": "2024-01-03", "provider": "N/A", "details": "Amlodipine 5 mg daily started"}]}
+{"input": "Amlodipine increased to 10 mg daily on 2024-03-20.", "output": [{"event_type": "Medication Changed", "date": "2024-03-20", "provider": "N/A", "details": "Amlodipine increased to 10 mg daily"}]}
+{"input": "Stopped hydrochlorothiazide in 2024-05 due to hyponatremia.", "output": [{"event_type": "Medication Stopped", "date": "2024-05", "provider": "N/A", "details": "Hydrochlorothiazide stopped due to hyponatremia"}]}
+{"input": "Follow-up visit in Jan 2025 for CKD stage 3b review.", "output": [{"event_type": "Follow-up Visit", "date": "2025-01", "provider": "N/A", "details": "CKD stage 3b review"}]}
+{"input": "Patient reports new onset bilateral leg swelling, noted today.", "output": [{"event_type": "Patient Reported Symptom", "date": "Unknown", "provider": "N/A", "details": "New bilateral leg swelling"}]}
+{"input": "Lives with spouse; daughter assists with medications.", "output": [{"event_type": "Functional/Social Note", "date": "Unknown", "provider": "N/A", "details": "Lives with spouse; daughter assists with medications"}]}
+{"input": "Problem list updated: obesity, obstructive sleep apnea.", "output": [{"event_type": "Diagnosis", "date": "Unknown", "provider": "N/A", "details": "Obesity; obstructive sleep apnea"}]}
+{"input": "Serum potassium 5.8 mmol/L on 2024-12-02.", "output": [{"event_type": "Lab Result", "date": "2024-12-02", "provider": "N/A", "details": "Potassium 5.8 mmol/L"}]}
+{"input": "EKG ordered 2025-02 for palpitations.", "output": [{"event_type": "Lab Ordered", "date": "2025-02", "provider": "N/A", "details": "EKG ordered for palpitations"}]}
+{"input": "EKG on 2025-02-14 showed normal sinus rhythm.", "output": [{"event_type": "Lab Result", "date": "2025-02-14", "provider": "N/A", "details": "EKG: normal sinus rhythm"}]}
+{"input": "Referral to physical therapy on 2024-04-10 for balance training.", "output": [{"event_type": "Referral Sent", "date": "2024-04-10", "provider": "N/A", "details": "Referral to physical therapy for balance training"}]}
+{"input": "Orthopedics visit on 2024-04-25 at Riverside Clinic.", "output": [{"event_type": "Specialist Visit", "date": "2024-04-25", "provider": "Riverside Clinic", "details": "Orthopedics visit"}]}
+{"input": "Creatinine 1.9 mg/dL on 2025-03-08; eGFR 40.", "output": [{"event_type": "Lab Result", "date": "2025-03-08", "provider": "N/A", "details": "Creatinine 1.9 mg/dL; eGFR 40"}]}
+{"input": "Started atorvastatin in 2023 for ASCVD risk reduction.", "output": [{"event_type": "Medication Started", "date": "2023", "provider": "N/A", "details": "Atorvastatin started for ASCVD risk reduction"}]}
+{"input": "Atorvastatin dose reduced in 2024 due to myalgia.", "output": [{"event_type": "Medication Changed", "date": "2024", "provider": "N/A", "details": "Atorvastatin dose reduced due to myalgia"}]}
+{"input": "Atorvastatin stopped in 2025 after persistent myalgia.", "output": [{"event_type": "Medication Stopped", "date": "2025", "provider": "N/A", "details": "Atorvastatin stopped due to myalgia"}]}
+{"input": "Nephrology follow-up planned for March 2025.", "output": [{"event_type": "Follow-up Visit", "date": "2025-03", "provider": "N/A", "details": "Nephrology follow-up planned"}]}
+{"input": "Sleep study ordered in 2024-08 for suspected OSA.", "output": [{"event_type": "Lab Ordered", "date": "2024-08", "provider": "N/A", "details": "Sleep study ordered for suspected OSA"}]}
+{"input": "Sleep study on 2024-09-12 confirmed moderate OSA.", "output": [{"event_type": "Lab Result", "date": "2024-09-12", "provider": "N/A", "details": "Sleep study: moderate OSA"}]}
+{"input": "Influenza vaccination administered on 2023-10-05.", "output": [{"event_type": "Procedure", "date": "2023-10-05", "provider": "N/A", "details": "Influenza vaccination administered"}]}
+{"input": "Problem list: diabetic retinopathy, peripheral neuropathy.", "output": [{"event_type": "Diagnosis", "date": "Unknown", "provider": "N/A", "details": "Diabetic retinopathy; peripheral neuropathy"}]}
+{"input": "Patient reports nocturia x3 nightly, noted in April 2024.", "output": [{"event_type": "Patient Reported Symptom", "date": "2024-04", "provider": "N/A", "details": "Nocturia x3 nightly"}]}
+{"input": "Lives in a single-story home; no stairs.", "output": [{"event_type": "Functional/Social Note", "date": "Unknown", "provider": "N/A", "details": "Single-story home; no stairs"}]}
